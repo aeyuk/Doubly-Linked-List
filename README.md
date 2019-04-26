@@ -19,7 +19,7 @@ void out(int, char = ‘f’) | Outputs the first k elements of the list, where 
 void sort() | Should perform a O(n lg n) time sorting algorithm on the items in the list. The list should be in increasing order based on the integer key after this operation.
 
 ## Downloading and Compiling
-Clone the repository from terminal, or download the zip and extrac the files.
+Clone the repository from terminal, or download the zip and extract the files.
 ```bash
 git clone https://github.com/aeyuk/Doubly-Linked-List.git
 ```
