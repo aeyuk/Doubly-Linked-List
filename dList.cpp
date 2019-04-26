@@ -1,6 +1,9 @@
 /* CATE YUK - CWID: 11817795
 PROJECT 2
 DOUBLY LINKED-LIST */
+#include <cstddef>
+#include <iostream>
+
 using namespace std;
 
 struct node {
